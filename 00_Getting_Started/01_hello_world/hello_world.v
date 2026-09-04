@@ -4,4 +4,4 @@ module hello_world;
         $display("Hello, RTL Verilog!");
     end
 
-endmodule 
+endmodule
