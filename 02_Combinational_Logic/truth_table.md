@@ -1,4 +1,6 @@
-# 2-to-1 Multiplexer Truth Table
+# Multiplexer Truth Tables
+
+## 2-to-1 Multiplexer
 
 A 2-to-1 MUX has two data inputs (`I0`, `I1`), one select input (`S`), and one output (`Y`).
 

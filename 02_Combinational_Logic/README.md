@@ -18,9 +18,9 @@ Unlike sequential circuits, combinational circuits do not store previous states 
 - Encoder
 - Decoder
 
-## First Design
+---
 
-### 2-to-1 Multiplexer
+## Design 1: 2-to-1 Multiplexer
 
 A 2-to-1 Multiplexer selects one of two input signals based on a select signal.
 
@@ -34,8 +34,8 @@ A 2-to-1 Multiplexer selects one of two input signals based on a select signal.
 
 - `Y` - Selected output
 
-### Logic
+### Operation
 
 ```text
-S = 0  →  Y = I0
-S = 1  →  Y = I1
+S = 0 → Y = I0
+S = 1 → Y = I1
